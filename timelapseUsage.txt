@@ -1,0 +1,1 @@
+python3 timelapse.py 192.168.88.96 --interval 1 --pan-every 60 -p password -u admin -o /home/lasse/code/timelapsecamera/timelapse_frames/
